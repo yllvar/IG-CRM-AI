@@ -1,0 +1,23 @@
+{
+  "name": "chatbot-instagram-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "client": "cd client && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.1.2",
+    "framer-motion": "^12.23.24"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
